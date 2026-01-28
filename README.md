@@ -1,16 +1,2 @@
-# sqlite_ad_2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1366" height="768" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/c58bfed3-a3f2-4368-97a5-ef3dfafaf3a5" />
+<img width="1366" height="768" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/64f82c46-771b-4bb9-bab9-e81a6003f0b2" />
