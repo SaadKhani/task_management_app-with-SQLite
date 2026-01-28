@@ -85,6 +85,16 @@ class _UserScreenState extends State<UserScreen> {
                     child: const Text('Add'),
                   ),
                 ),
+                MaterialButton(
+                  color: Colors.blue,
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (_) => nextscreen()),
+                    );
+                  },
+                  child: const Text('next'),
+                ),
               ],
             ),
           ),
@@ -129,6 +139,18 @@ class _UserScreenState extends State<UserScreen> {
           ),
         ],
       ),
+    );
+  }
+}
+
+class nextscreen extends StatelessWidget {
+  const nextscreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(),
+      body: Center(child: Text('welcome to next')),
     );
   }
 }
